@@ -1,3 +1,0 @@
-jsp page
-index page include  redirect to navbarbar.jsp ,link.jsp, AddToDo.jsp, ShowTOdo.jsp, DeleteTODO.jsp,Modifify.jsp
-than perform operation using jsp using redire to webServlet than than perform operaion 
