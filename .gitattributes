@@ -1,0 +1,5 @@
+*.java linguist-language=Java
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.hibernate linguist-language=hibernate
+*.jsp linguist-language=Java
