@@ -1,6 +1,6 @@
-*.java linguist-language=Java
-*.html linguist-language=HTML
+*.java linguist-language=Java logo=java.svg
+*.html linguist-language=HTML  
 *.css linguist-language=CSS
 *.hibernate linguist-language=hibernate
 *.jsp linguist-language=Java
-[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
+
