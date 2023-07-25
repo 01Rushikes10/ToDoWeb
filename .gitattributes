@@ -1,6 +1,8 @@
 *.java linguist-language=Java logo=java.svg
 *.html linguist-language=HTML  
 *.css linguist-language=CSS
+*.java linguist-language=java
 *.hibernate linguist-language=hibernate
-*.jsp linguist-language=Java
+*.servlet linguist-language=servlet
+*.jsp linguist-language=jsp
 
